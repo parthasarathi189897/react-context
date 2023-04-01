@@ -8,7 +8,6 @@ function App() {
     <div className="app">
       <header className="app-header">React Context</header>
       <h1>Counter</h1>
-      <h1>Counter2</h1>
       <CounterProvider>
         <Counter />
         <FootNote/>
